@@ -17,6 +17,9 @@
 ### Python 101 程式碼
 - https://github.com/ywchiu/pyfintech/blob/master/Python101.ipynb
 
+### 線上課程
+- https://www.tibame.com/q?pg=oocourses_all&tg=OOCourseAll-listCourses&cx=22.20000&cmd=search&viewMode=default&categoryFilter=30000000239
+
 ### Pandas 簡介
 - https://www.slideshare.net/secret/HU75ldZcvgPFgC
 
