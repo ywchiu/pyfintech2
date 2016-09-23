@@ -4,6 +4,10 @@
 ### Anaconda
 - http://repo.continuum.io/archive/Anaconda2-4.1.1-Windows-x86_64.exe
 
+## spurious-correlations
+- http://www.tylervigen.com/spurious-correlations
+
+
 
 ## Python 簡介
 
