@@ -1,4 +1,4 @@
-# 大數據系統人員課程
+﻿# 大數據系統人員課程
 
 ## 課前須知
 ### Anaconda
@@ -25,5 +25,6 @@
 
 ## 基礎課程
 ### 投影片
-- https://www.slideshare.net/secret/vqxQyUPTWAkzTG
-
+- https://www.slideshare.net/secret/LIIugM3TrwkV7z
+- https://www.slideshare.net/secret/EdmxWPqpPmjJKb
+- https://www.slideshare.net/secret/df7xsh89TCmWN0
